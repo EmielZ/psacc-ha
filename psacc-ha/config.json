@@ -1,6 +1,6 @@
 {
-  "name": "PSA Car Controller",
-  "version": "v3.5.3",
+  "name": "PSA Car Controller Emiel",
+  "version": "v1",
   "slug": "psacc",
   "description": "Control and get information from your PSA car",
   "arch": [
